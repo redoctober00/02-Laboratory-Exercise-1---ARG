@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.CashierWindowQueue.resources
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.Properties.Resources.resources
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.QueuingForm.resources
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.csproj.GenerateResource.cache
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QueueProgram\QueueProgram\bin\Debug\QueueProgram.exe.config
+C:\Users\user\source\repos\QueueProgram\QueueProgram\bin\Debug\QueueProgram.exe
+C:\Users\user\source\repos\QueueProgram\QueueProgram\bin\Debug\QueueProgram.pdb
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.exe
+C:\Users\user\source\repos\QueueProgram\QueueProgram\obj\Debug\QueueProgram.pdb
